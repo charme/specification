@@ -1,5 +1,5 @@
 # The Charme Specification
-`Charme` is a new JSON-based API format specification. It's compareable to JSON API, but eliminates the known limitations and problems there, and it's better prepared for enterprise usage.
+`Charme` is a new JSON-based API format specification. It's comparable to JSON API, but eliminates the known limitations and problems there, and it's better prepared for enterprise usage.
 
 ## Some goals, defined so far
 - Not limited to the HTTP protocol
