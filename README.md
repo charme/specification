@@ -41,4 +41,4 @@ It's inspired by [JSON API](http://jsonapi.org), but eliminates its known limita
 - Validation and completion of the specification.
 
 ## Be a part of it!
-The project just started, and a first preview version of the spec will be published as soon as possible. Nevertheless you can tell us which limitations of other API specification like JSON API are currently a problem for you - create an issue for, explain the problem and suggest a solution that would solve it for you.
+The project just started, and a first preview version of the spec will be published as soon as possible. Nevertheless you can tell us which limitations of other API specifications like JSON API are currently a problem for you - create an issue for, explain the problem and suggest a solution that would solve it for you.
